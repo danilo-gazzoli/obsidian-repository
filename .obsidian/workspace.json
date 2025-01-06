@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bluetooth in Linux.md",
+                "file": "notes/zettelkasten/Bluetooth in Linux.md",
                 "mode": "source",
                 "source": false
               },
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bluetooth in Linux.md",
+                "file": "notes/zettelkasten/Bluetooth in Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bluetooth in Linux.md",
+                "file": "notes/zettelkasten/Bluetooth in Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bluetooth in Linux.md"
+                "file": "notes/zettelkasten/Bluetooth in Linux.md"
               },
               "icon": "lucide-list",
               "title": "Outline of Bluetooth in Linux"
@@ -162,10 +162,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d6c545137543432",
+  "active": "c90ff3cfed965015",
   "lastOpenFiles": [
     "Untitled.canvas",
-    "Bluetooth in Linux.md",
+    "notes/zettelkasten/Bluetooth in Linux.md",
     "Welcome.md",
     "notes",
     "routine/diary",
