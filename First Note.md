@@ -1,1 +1,0 @@
-This note is a milestone, because in 2025/01/06 I decided use obsidian to improve my productivity in studies and in my projects.
