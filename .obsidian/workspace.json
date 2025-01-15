@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6d6c545137543432",
+            "id": "ee4743cbdf55ebd2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/zettelkasten/Bluetooth in Linux.md",
+                "file": "notes/zettelkasten/Ruby on Rails.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bluetooth in Linux"
+              "title": "Ruby on Rails"
             }
           }
         ]
@@ -164,8 +164,15 @@
   },
   "active": "c90ff3cfed965015",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "notes/zettelkasten/Ruby on Rails.md",
+    "notes/zettelkasten/Ruby.md",
+    "notes/zettelkasten/Scalability and Optimization.md",
+    "notes/zettelkasten/Interpreted Language.md",
+    "notes/zettelkasten/MVC Pattern.md",
+    "notes/zettelkasten/Compiled Language.md",
+    "notes/zettelkasten/JavaScript.md",
     "notes/zettelkasten/Bluetooth in Linux.md",
+    "Untitled.canvas",
     "Welcome.md",
     "notes",
     "routine/diary",

@@ -1,0 +1,1 @@
+like [[Java]], [[C#]], [[C]], [[Rust]] and anymore
