@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "Ruby on Rails"
             }
+          },
+          {
+            "id": "99c8785a264907e9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,6 +175,8 @@
   },
   "active": "c90ff3cfed965015",
   "lastOpenFiles": [
+    "notes/zettelkasten/RSpec.md",
+    "notes/zettelkasten/TDD.md",
     "notes/zettelkasten/Ruby on Rails.md",
     "notes/zettelkasten/Ruby.md",
     "notes/zettelkasten/Scalability and Optimization.md",
